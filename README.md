@@ -5,7 +5,7 @@ An AI Based Game in which the player can move the in-game hand by moving their a
 
 Below is the video demonstrating the game:
 
-https://github.com/AbhayTr/CatchTheDuck/assets/53339132/1115ad8b-9d87-4814-a17c-75426f43cbae
+https://github.com/AbhayTr/CatchTheDuck/assets/53339132/7f0b21e8-9cbb-44a6-8887-2f4144793219
 
 ## Prerequisites to deploy and use the Web App
   - **Python** should be installed on the system to run the game.
