@@ -1,3 +1,13 @@
+'''
+
+Catch the Duck Hand Game
+
+An AI Based Game in which the player can move the in-game hand by moving their actual hand in front of a camera, and then close their hand in front of the camera when their in-game hand is above the duck, to catch the duck and score a point.
+
+© Abhay Tripathi
+
+'''
+
 import cv2
 import numpy as np
 import mediapipe as mp
