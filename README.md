@@ -1,13 +1,13 @@
-# Catch the Duck Hand Game
+# Catch the Duck Hand Game 🐤
 An AI Based Game in which the player can move the in-game hand by moving their actual hand in front of a camera, and then close their hand in front of the camera when their in-game hand is above the duck, to catch the duck and score a point.
 
 ## Demo Video
 
 Below is the video demonstrating the game:
 
-https://github.com/AbhayTr/CatchTheDuck/assets/53339132/7f0b21e8-9cbb-44a6-8887-2f4144793219
+%VIDEO%
 
-## Prerequisites to deploy and use the Web App
+## Prerequisites to play the game
   - **Python** should be installed on the system to run the game.
   - **Pip** should be installed on the system to install dependencies of the game.
   - The following packages should be installed by using pip on the system (run the following commands in Command Prompt/Terminal after installing python and pip to install them):
